@@ -8,9 +8,9 @@ This game was created for educational purpose
 
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,js&theme=dark)
 
-### Visit :- [Hungry Snake](https://angkush.vercel.app/)
+### Visit :- [Hungry Snake](https://angkushsahu.github.io/snake-game/)
 
-![Hungry Snake](https://res.cloudinary.com/dvhucdquc/image/upload/v1648666838/ProjectsHomeImages/Screenshot_227_zehq6m.png)
+![Hungry Snake](https://res.cloudinary.com/dvhucdquc/image/upload/v1660664423/other-projects/snake_qqhf09.png)
 
 ## Install
 
